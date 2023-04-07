@@ -1,2 +1,2 @@
 # BlazorConctacts1
-Exemplo de repositório do GitHub para testes de BlazorServer
+Este repositório servirá para testar as funcionalidades de uma aplicação Blazor Server
